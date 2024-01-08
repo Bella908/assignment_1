@@ -5,9 +5,10 @@
 
 body {
     background-color: #FFF;
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather', serif, 'Inter', sans-serif;
     font-family: 'Ubuntu', sans-serif;
     color: #FFF;
+
 }
 
 .banner {
@@ -44,4 +45,33 @@ body {
     line-height: 95px;
     padding-bottom: 177px;
     /* 131.944% */
+}
+
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+
+    font-weight: 700;
+    padding-top: 120px;
+
+}
+#off2{
+    
+font-size: 24px;
+
+font-weight: 500;
+padding-top: 48px;
+
+}
+
+#off3{
+    color: #070211;
+
+font-size: 48px;
+
+font-weight: 700;
+
+
 }
