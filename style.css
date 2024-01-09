@@ -331,3 +331,58 @@ font-size: 20px;
 font-weight: 600;
 
 }
+
+footer{
+    background-color: #070211;
+    
+    margin-top: 120px;
+    padding-left: 140px;
+    margin-bottom: auto;
+}
+.phone{
+    display: flex;
+    justify-content: space-between;
+}
+.foot_img{
+    width: 24px;
+height: 24px;
+padding-top: 120px;
+}
+
+.foot_cont{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+padding-top: 120px;
+
+}
+
+.footer_row{
+    display: flex;
+    gap:559px;
+    padding-bottom: 50px;
+   
+}
+
+.section2{
+    padding-bottom: 5px;
+    padding-left: 18px;
+}
+
+.social_media{
+    width: 64px;
+height: 64px;
+display: flex;
+gap: 24px;
+padding-left: 450px;
+padding-bottom: 247px;
+padding-top: 48px;
+}
+
+.line{
+    border-top: 50px ;
+    background: rgba(255, 255, 255, 0.15); 
+            width: 100%; 
+            margin: 10px 0; 
+}
