@@ -376,13 +376,29 @@ height: 64px;
 display: flex;
 gap: 24px;
 padding-left: 450px;
-padding-bottom: 247px;
+padding-bottom: 48px;
 padding-top: 48px;
 }
 
 .line{
-    border-top: 50px ;
+    border-top: 1px ;
     background: rgba(255, 255, 255, 0.15); 
-            width: 100%; 
-            margin: 10px 0; 
+    width: 1320px;
+ 
+            
+}
+.reserved{
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+.last{
+    padding-top:50px ;
+    padding-bottom: 120px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+
+font-weight: 500;
+
+
 }
