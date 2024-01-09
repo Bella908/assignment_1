@@ -415,20 +415,35 @@ font-weight: 500;
 }
 .bon_img{
     border-radius: 364.844px;
-background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat;
 width: 364.844px;
 height: 364.844px;
+padding-left: 48px;
+
+
 }
 .bon_txt{
     color: #F00;
 font-family: Inter;
 font-size: 48px;
 font-weight: 700;
+padding-left: 167px;
 
 }
 .bon_img2{
     width: 140px;
 height: 140px;
+padding-top: 43px;
+padding-left: 167px;
+}
+
+.bon_txt_2{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 22px;
+    padding-left: 167px;
+
 }
 
 .bon_colo{
