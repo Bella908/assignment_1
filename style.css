@@ -130,7 +130,7 @@ body {
     color: #FFF;
     text-decoration: none;
     border: #FFF;
-    
+
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
@@ -139,28 +139,29 @@ body {
 
 
 }
-.btn{
+
+.btn {
     padding-top: 50px;
     padding-left: 30px;
 
 }
 
-.banner_2{
+.banner_2 {
     display: flex;
 }
 
-.year{
-    
-width: 319.83px;
-height: 464.662px;
-padding-top: 69px;
-padding-left: 45px;
-flex-direction: column;
-justify-content: center;
-align-items: center;
+.year {
+
+    width: 319.83px;
+    height: 464.662px;
+    padding-top: 69px;
+    padding-left: 45px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.add{
+.add {
     border-radius: 16px;
     background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     background-size: cover;
@@ -171,76 +172,75 @@ align-items: center;
     margin-top: 70px;
     margin-left: 100px;
     margin-right: 140px;
- 
+
 }
-.add_text{
+
+.add_text {
     color: #070211;
-font-family: Inter;
-font-size: 32px;
-font-weight: 600;
-text-align: center;
-padding-top: 100px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 100px;
 
 }
 
-.text_color{
+.text_color {
     color: #F00;
 }
 
-.gallary{
+.gallary {
     padding-left: 140px;
     padding-bottom: 30px;
 
 }
-.glry_txt_1{
+
+.glry_txt_1 {
     color: #F00;
-font-family: Inter;
-font-size: 24px;
+    font-family: Inter;
+    font-size: 24px;
 
-font-weight: 500;
+    font-weight: 500;
 
 }
-.glry_txt_2{
+
+.glry_txt_2 {
     color: #070211;
-font-family: Merriweather;
-font-size: 48px;
+    font-family: Merriweather;
+    font-size: 48px;
 
-font-weight: 900;
+    font-weight: 900;
 
 }
 
-.glry_txt_3{
+.glry_txt_3 {
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-weight: 400;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
 
 }
 
-.gallary_pic{
-   padding-top: 48px;
-   border-radius: 16px;
-
-   
+.gallary_pic {
+    padding-top: 48px;
+    border-radius: 16px;
 }
-.gallary_pic_row{
+
+.gallary_pic_row {
     padding-left: 24px;
-   
-   
- 
-
 }
-.gallary_pic_row2{
-   
-   padding-top: 24px;
-  
+
+.gallary_pic_row2 {
+
+    padding-top: 24px;
+
 
 }
 
-.messg{
+.messg {
     border-radius: 16px;
     background-color: rgba(255, 0, 0, 0.05);
-    
+
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -249,6 +249,85 @@ font-weight: 400;
     margin-top: 70px;
     margin-left: 100px;
     margin-right: 140px;
- 
+
 }
 
+.messg {
+
+    text-align: center;
+    padding-top: 100px;
+}
+
+.mess_txt1 {
+    color: #070211;
+
+    font-family: Merriweather;
+    font-size: 48px;
+
+    font-weight: 900;
+    padding-top: 30px;
+
+}
+
+.mess_txt2 {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.input_fild{
+    position: relative;
+    display: flex;
+}
+
+.contact input {
+    display: flex;
+    padding-top: 25px;
+    padding-bottom:25px ;
+   
+    padding-left: 5px;
+    width: 440px;
+    height: 20px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+
+    background: #FFF;
+    border: none;
+}
+
+.email{
+    color: rgba(7, 2, 17, 0.30);
+font-family: Inter;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+padding-left: 100px;
+
+}
+
+.form {
+    padding-left: 336px;
+    padding-top: 48px;
+}
+
+.sub{
+    padding-top: 48px;
+    
+}
+.submit{
+    border-radius: 0px 50px 50px 0px;
+background: #F00;
+    height: 70px;
+    width: 210px;
+    border: none;
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+
+}
